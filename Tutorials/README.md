@@ -6,6 +6,6 @@ This is a continuously updated repository that documents tutorials on Machine Le
 
 ## Contents
 
-1. Dimensionality Reduction [[Notebook](https://github.com/LaxmanSinghTomar/Machine-Learning/tree/master/Tutorials/Dimensionality%20Reduction)]
+1. Dimensionality Reduction [[Notebook](https://github.com/LaxmanSinghTomar/Machine-Learning/blob/master/Tutorials/Dimensionality%20Reduction/Dimensionality%20Reduction.ipynb)]
 
-2. Regularization [[Notebook](https://github.com/LaxmanSinghTomar/Machine-Learning/tree/master/Tutorials/Regularization)]
+2. Regularization [[Notebook](https://github.com/LaxmanSinghTomar/Machine-Learning/blob/master/Tutorials/Regularization/Regularization.ipynb)]
