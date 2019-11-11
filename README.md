@@ -84,5 +84,5 @@ Now we know what is Machine Learning, it's applications and it's pre-requisites.
 
 I will try to strike out a balance between them. Stay tuned for more content!:muscle:
 
-
+Click [here](https://github.com/LaxmanSinghTomar/Machine-Learning/blob/master/CONTENTS.md) to navigate to the contents!
 
