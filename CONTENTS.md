@@ -9,3 +9,7 @@
 ## 2. Regularization
 
   - Lasso and Ridge Regression [[Notebook]](https://github.com/LaxmanSinghTomar/Machine-Learning/blob/master/Tutorials/Regularization/Regularization.ipynb)
+
+## 3. Dimensionality Reduction
+
+- PCA and SVD [[Notebook]](https://github.com/LaxmanSinghTomar/Machine-Learning/blob/master/Tutorials/Dimensionality%20Reduction/Dimensionality%20Reduction.ipynb)
