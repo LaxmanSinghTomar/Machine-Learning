@@ -1,6 +1,7 @@
 # Contents
 
-## 1. Linear Regression
+# Supervised Learning
+## 1. Regression
   
   - Using Least Squares [[Notebook]](https://github.com/LaxmanSinghTomar/Machine-Learning/blob/master/Tutorials/Linear%20Regression/Linear%20Regression%20using%20Least%20Squares.ipynb)
   
