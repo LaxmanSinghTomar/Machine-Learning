@@ -1,7 +1,7 @@
 # Contents
 
 # Supervised Learning
-## 1. Regression [Read](https://github.com/LaxmanSinghTomar/Machine-Learning/blob/master/Regression.md)
+## 1. Regression [[Read]](https://github.com/LaxmanSinghTomar/Machine-Learning/blob/master/Regression.md)
   
   - Using Least Squares [[Notebook]](https://github.com/LaxmanSinghTomar/Machine-Learning/blob/master/Tutorials/Linear%20Regression/Linear%20Regression%20using%20Least%20Squares.ipynb)
   
